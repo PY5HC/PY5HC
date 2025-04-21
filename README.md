@@ -2,17 +2,18 @@
 
 ## Sobre mim
 Sou radioamador, entusiasta de telecomunicações alternativas e redes resilientes.  
-Minha atuação é focada em desenvolver soluções técnicas de alto desempenho para:
+Tento focar minhas atividades de radio e atuação em desenvolver soluções técnicas de alto desempenho para:
 
-- Packet Radio (AX.25) moderno
+
 - SDR (Software Defined Radio)
 - EME (Earth-Moon-Earth) — Comunicação via reflexão lunar
 - Automação e monitoramento de estações com Zabbix e SCADA
 - Desenvolvimento de tecnologias para RDF (Radio Direction Finding)
 - Edge Computing aplicado a sinais fracos VHF+ (Weak Signal)
+- Packet Radio (AX.25) moderno
 
 Atualmente também estou estudando:
-- Deep Learning para normalização de sinais fracos
+- Deep Learning para normalização de sinais fracos (Weak Signal)
 - Aplicações de Machine Learning embarcado em Edge Devices para radiofrequência
 - Desenvolvimento de infraestrutura para redes alternativas e automação de repetidoras
 
@@ -33,7 +34,7 @@ Atualmente também estou estudando:
 ## Como me encontrar
 - 📻 Indicativo de rádio amador: PY5HC
 - ✉️ Contato: py5hc@hotmail.com
-- 🌎 Localização: Brasil 🇧🇷
+- 🌎 Localização: GG54im - Brasil 🇧🇷
 
 ---
 
